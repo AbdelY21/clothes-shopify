@@ -1,0 +1,108 @@
+#detail_suche{
+	background-color: #3b968c;
+	height: auto;
+	width: 50%;
+	padding-top: 20px;
+	border-radius: 10px;
+	margin: 0 auto;
+	
+
+}
+
+#detail_suche select{
+	height: 30px;
+	font-size: 20px;
+	border-radius: 10px;
+}
+#detail_suche label{
+	font-size: 25px;
+	margin-left: 20px;
+}
+
+.container{
+	background-color: white;
+	height: 100px;
+	width: 800px;
+	margin: 0 auto;
+	border-radius: 25px;
+	text-align: center;
+}
+
+.container{
+	margin-top: 20px;
+
+}
+
+/* Deteilsuche */
+
+#detail_suche h3{
+	height: auto;
+	width: 20px;
+	margin: 0 auto;
+}
+
+
+#index_marken{
+	height: auto;
+	width: 50%;
+	padding-top: 1em;
+	margin: 0 auto;
+	border-radius: 10px;
+	font-size: 25px;
+}
+
+#index_marken input{
+	size: 200px;
+}
+#index_preis{
+	height: auto;
+	width: 50%;
+	padding-top: 1em;
+	margin: 0 auto;
+}
+#index_preis label{
+	margin-left: 20px;
+	
+}
+
+
+#index_km{
+	height: auto;
+	width: 50%;
+	padding-top: 1em;
+	margin: 0 auto;
+}
+#index_ez{
+	height: auto;
+	width: 40%;
+	padding-top: 1em;
+	margin: 0 auto;
+}
+
+#index_ls{
+	height: auto;
+	width: 40%;
+	padding-top: 1em;
+	margin: 0 auto;
+}
+#index_ks{
+	height: auto;
+	width: 33%;
+	padding-top: 1em;
+	margin: 0 auto;
+	font-size: 25px;
+}
+
+#detail_suche .button{
+	margin-top: 20px;
+	margin-left: 80%;
+	margin-bottom: 10px;
+}
+
+#detail_suche .button{
+	background-color:#989898;
+}
+
+#detail_suche .button:hover{
+	background-color:#00b300;
+}

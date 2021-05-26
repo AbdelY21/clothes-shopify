@@ -1,0 +1,38 @@
+.clothesPlus{
+	height: auto;
+	width: 80%;
+	margin: 0 auto;
+	border: solid;
+	
+}
+.clothesPlus{
+	margin-top: 20px;
+}
+.clothesPlus select{
+	display: inline;
+	font-size: 30px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: 30px;
+	border-radius: 10px;
+	
+}
+.clothesPlus input{
+	width: 200px;
+	font-size: 30px;
+	border-radius: 10px;
+	padding-left: 10px;
+	margin-left: 30px;
+
+}
+
+#insert_pic{
+	height: auto;
+	width: 80%;
+	margin: 0 auto;
+	border: solid;
+}
+
+#insert_pic{
+	margin-top: 20px;
+}

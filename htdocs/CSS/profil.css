@@ -1,0 +1,17 @@
+.profil{
+	height: auto;
+	width: 33%;
+	margin: 0 auto;
+	padding-top: 5em;
+}
+
+.profil td{
+	font-size: 25px;
+	padding-left: 2em;
+}
+
+.profil th{
+	font-size: 30px;
+	padding-left: 1em;
+	float: left;
+}

@@ -1,0 +1,65 @@
+/* Anzeige aller Clothes in der DB*/
+.allClothes{
+	height: auto;
+	width: 60%;
+	margin: 0 auto;
+}
+
+
+.allClothes td{
+	border-top: solid;
+	padding-left: 25px;
+	padding-top: 5px;
+	border-color: #1A768C;
+
+}
+
+/* allClothes_myClothes */
+
+.allClothes_myClothes{
+	height: auto;
+	width: 60%;
+	margin: 0 auto;
+}
+
+.allClothes_myClothes{
+	margin-top: 2%;
+}
+
+
+.allClothes_myClothes td{
+	border-top: solid;
+	padding-left: 25px;
+	border-color: #3b968c;
+
+}
+
+/* Update anzeige */
+
+.myClothes_container{
+	height: auto;
+	width: 30%;
+	margin: 0 auto;
+	font-size: 25px;
+}
+
+.myClothes_container{
+	margin-top: 5%;
+	}
+
+.myClothes_display input{
+	width: 200px;
+	font-size: 30px;
+	border-radius: 10px;
+	padding-left: 10px;
+	margin-left: 30px;
+
+}
+
+.myClothes_display2 select{
+	width: 200px;
+	font-size: 30px;
+	border-radius: 10px;
+	padding-left: 10px;
+	margin-left: 30px;
+}

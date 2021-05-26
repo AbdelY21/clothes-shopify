@@ -1,0 +1,27 @@
+#registration{
+	height: auto;
+	width: 30%;
+	margin: 0 auto;
+	font-size: 25px;
+}
+#registration{
+	margin-top: 20px;
+}
+#registration ul{
+	list-style: none;
+}
+
+#registration ul li input{
+	font-family: 'Oswald', sans-serif;
+	border: solid;
+	border-color: #2A333A;
+	height: 30px;
+	width: 200px;
+	margin-top: 3px;
+	border-radius: 10px;
+	padding-left: 10px;
+}
+
+
+
+
