@@ -1,5 +1,4 @@
 # clothes-shopify
-Clothes-Shopify project
 
 # Kurzbeschreibung
 Auf der Webseite „Clothes-Shopify“ hat man zum einen die Möglichkeit gezielt nach bestimmter Sportbekleidung zu suchen, indem man sich entweder anschaut was bereits alles an Kleidung auf der Webseite vorhanden ist oder man schränkt auf der Startseite die Suche nach bestimmten Kategorien wie Marke, Größe oder Preis ein. Diese Möglichkeiten stehen für registrierte aber auch für Nicht-registrierte Nutzer zur Verfügung.
